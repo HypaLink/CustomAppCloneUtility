@@ -1,0 +1,15 @@
+{
+  "name": "clone_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clone_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "add-dashes-to-uuid": "^1.0.0",
+    "guid": "0.0.12"
+  }
+}
